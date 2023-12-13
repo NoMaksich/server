@@ -1,0 +1,5 @@
+Date and time: Tue Dec 12 11:59:07 2023
+Critical: YesError: Failed to open database fileDate and time: Tue Dec 12 12:00:04 2023
+Critical: YesError: Error in authentication(): Auth error: unknown user: No such file or directoryDate and time: Tue Dec 12 12:00:38 2023
+Critical: YesError: Error in authentication(): Auth error: unknown user: Bad file descriptorDate and time: Tue Dec 12 12:01:52 2023
+Critical: YesError: Error occurred in quad(): Failed to receive vector data
